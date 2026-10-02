@@ -2,9 +2,11 @@ owner: ujjwalkumar14b
 repo: Website_Status 
 
 sites:
+  - name: Portfolio
+    url: https://ujjwalkumar14b.github.io/me/
   - name: Product Recommendation System
     url: https://recommend-m0mw.onrender.com/
-  - name: Dynamic Pricing
+  - name: Ride Fare Dynamic Pricing Model
     url: https://dynamic-pricing-h35o.onrender.com/
   - name: Credit Card Fraud Detection
     url: https://credit-card-fraud-detection-v4m8.onrender.com/
