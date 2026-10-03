@@ -10,6 +10,8 @@ sites:
     url: https://dynamic-pricing-h35o.onrender.com/
   - name: Credit Card Fraud Detection
     url: https://credit-card-fraud-detection-v4m8.onrender.com/
+  - name: Text Summarizer
+    url: https://text-summarizer-jkym.onrender.com/
   - name: Social Media Website
     url: https://social-media-frontend-sigma-two.vercel.app/
 
