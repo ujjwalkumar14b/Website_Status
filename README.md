@@ -1,15 +1,10 @@
 # 📈 Website Live Status
 
-This repository contains the open-source uptime monitor and status page for [Ujjwal Kumar](https://ujjwalkumar14b.github.io/me/), powered by [Upptime](https://github.com/upptime/upptime).
-
 [![Uptime CI](https://github.com/ujjwalkumar14b/Website_Status/workflows/Uptime%20CI/badge.svg)](https://github.com/ujjwalkumar14b/Website_Status/actions/workflows/uptime.yml)
 [![Response Time CI](https://github.com/ujjwalkumar14b/Website_Status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/ujjwalkumar14b/Website_Status/actions/workflows/response-time.yml)
 [![Graphs CI](https://github.com/ujjwalkumar14b/Website_Status/workflows/Graphs%20CI/badge.svg)](https://github.com/ujjwalkumar14b/Website_Status/actions/workflows/graphs.yml)
 [![Static Site CI](https://github.com/ujjwalkumar14b/Website_Status/workflows/Static%20Site%20CI/badge.svg)](https://github.com/ujjwalkumar14b/Website_Status/actions/workflows/site.yml)
 [![Summary CI](https://github.com/ujjwalkumar14b/Website_Status/workflows/Summary%20CI/badge.svg)](https://github.com/ujjwalkumar14b/Website_Status/actions/workflows/summary.yml)
-
-With [Upptime](https://upptime.js.org), you can get your own unlimited and free uptime monitor and status page, powered entirely by a GitHub repository. We use [Issues](https://github.com/ujjwalkumar14b/Website_Status/issues) as incident reports, [Actions](https://github.com/ujjwalkumar14b/Website_Status/actions) as uptime monitors, and [Pages](https://demo.upptime.js.org) for the status page.
-
 
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
