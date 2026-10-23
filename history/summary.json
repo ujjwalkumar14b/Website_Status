@@ -22,12 +22,12 @@
     "url": "https://recommend-m0mw.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/recommend-m0mw.onrender.com.ico",
     "slug": "product-recommendation-system",
-    "status": "up",
-    "uptime": "95.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.69%",
-    "uptimeYear": "95.69%",
+    "status": "down",
+    "uptime": "95.75%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "95.75%",
+    "uptimeYear": "95.75%",
     "time": 24295,
     "timeDay": 52307,
     "timeWeek": 25514,
@@ -35,7 +35,8 @@
     "timeYear": 24295,
     "dailyMinutesDown": {
       "2026-10-09": 1295,
-      "2026-10-08": 2
+      "2026-10-08": 2,
+      "2026-10-23": 2
     }
   },
   {
@@ -84,11 +85,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/text-summarizer-jkym.onrender.com.ico",
     "slug": "text-summarizer",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.48%",
-    "uptimeYear": "99.48%",
+    "uptimeMonth": "99.49%",
+    "uptimeYear": "99.49%",
     "time": 22207,
     "timeDay": 31255,
     "timeWeek": 21228,
